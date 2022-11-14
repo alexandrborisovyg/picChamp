@@ -1,6 +1,6 @@
 # picChamp
 
-<img width="450" alt="image" src="https://user-images.githubusercontent.com/47476498/201616593-71e01184-f949-4856-870c-07666ce314ba.png"> <img width="450" alt="image" src="https://user-images.githubusercontent.com/47476498/201616953-44725603-91d8-41ae-b137-2fcfd5d69e64.png">
+<img width="400" alt="image" src="https://user-images.githubusercontent.com/47476498/201616593-71e01184-f949-4856-870c-07666ce314ba.png"> <img width="400" alt="image" src="https://user-images.githubusercontent.com/47476498/201616953-44725603-91d8-41ae-b137-2fcfd5d69e64.png">
 
 This is a Windows desktop app which provides an opportunity to create a tournament for pictures in any folder.
 
